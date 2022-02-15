@@ -14,7 +14,6 @@ body {
     font-family: 'Outfit', sans-serif;
     min-width: 375px;
     max-width: 1400px;
-    border: 1px solid red;
     margin: 0 auto;
     padding: 0;
 }
